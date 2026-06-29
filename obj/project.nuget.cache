@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uunqnVgyZZU=",
+  "success": true,
+  "projectFilePath": "/Users/luca/Documents/NetRom_Summer_Camp/EcoMeal/EcoMeal.csproj",
+  "expectedPackageFiles": [
+    "/Users/luca/.nuget/packages/blazor.bootstrap/3.5.0/blazor.bootstrap.3.5.0.nupkg.sha512",
+    "/Users/luca/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.3/microsoft.aspnetcore.app.internal.assets.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
