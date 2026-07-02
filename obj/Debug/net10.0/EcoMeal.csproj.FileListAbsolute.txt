@@ -192,3 +192,4 @@
 /Users/luca/Documents/NetRom_Summer_Camp/EcoMeal/obj/Debug/net10.0/EcoMeal.pdb
 /Users/luca/Documents/NetRom_Summer_Camp/EcoMeal/obj/Debug/net10.0/EcoMeal.genruntimeconfig.cache
 /Users/luca/Documents/NetRom_Summer_Camp/EcoMeal/obj/Debug/net10.0/ref/EcoMeal.dll
+/Users/luca/Documents/NetRom_Summer_Camp/EcoMeal/obj/Debug/net10.0/EcoMeal.sourcelink.json
